@@ -71,7 +71,7 @@ h1 {
   width: 300px;
   height: 300px;
   margin: 12px;
-  list-style: none;
+  list-style: disc;
   background-size: cover;
   box-shadow: 0 3px 4px 0 rgba(0,0,0,.60);
 }
@@ -122,5 +122,5 @@ footer {
   padding: 30px 0;
   text-align: center;
   color: #fff;
-  background: #333;
+  background: red;
 }
